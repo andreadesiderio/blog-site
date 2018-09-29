@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Example Blog Site"
   subtitle    = "My Blog"
 
-  cover       = "sunflower.jpg"
+  cover       = "static/uploads sunflower.jpg"
   description = "My awesome blog site."
   metaDescription = ""
   googleAnalytics = ""
@@ -26,7 +26,7 @@ paginate        = 6
   orgDescription = "Here is a description placeholder for your org"
 
   author = "Andrea Desiderio"
-  authorAvatar = "bee.jpg"
+  authorAvatar = "static/uploads/bee.jpg"
   authorLocation = "Onalaska, Wa"
   authorWebsite = "https://eueung.github.io"
   authorDescription = "Coder, Developer."
