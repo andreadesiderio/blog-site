@@ -9,6 +9,6 @@ categories: ["resources"]
 
 # Second Post
 
-Here is a video on how to build a Hugo website. The full series is about building a website and hosting it. Very helfpul. Thanks Chris! 
+Here is a video by Chris Stayte on how to build a Hugo website. The full series is about building a website and hosting it. Very helfpul. Thanks Chris! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c7vpcqA6SEQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

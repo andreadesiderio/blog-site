@@ -15,10 +15,10 @@ backend:
  -{label: "Title", name: "title", widget: "string", required: true}
   -{label: "Publish Date", name: "date", widget: "date", required: true}
   -{label: "Draft", name: "draft", widget: "boolean", default: true}
-  -{label: "Categies", name: "categories", widget: "string", required: true}
+  -{label: "Categories", name: "categories", widget: "list", required: false}
   -{label: "Tags", name: "tags", widget: "list", required: false}
   -{label: "Author", name: "author", widget: "hidden", default: Andrea Desiderio}
-  -{label: "Author Image", name: "authorImage", widget: "hidden", default: "uploads/bee.jpg"}
+  -{label: "Author Image", name: "author Avatar", widget: "hidden", default: "uploads/bee.jpg"}
   -{label: "Header Image", name: "image", widget: "image", required: false}
   -{label: "Commenting", name: "comments", widget: "boolean", default: true}
   -{label: "Sharing", name: "share", widget: "boolean", default: true}
