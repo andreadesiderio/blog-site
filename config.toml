@@ -6,19 +6,20 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Example Blog Site"
+  title       = "Andrea Pro Blog"
   subtitle    = "My Blog"
 
   cover       = "uploads/sunflower.jpg"
-  description = "My awesome blog site."
+  description = "My blog site."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
+  # twitterName = "faketryghost"
   fbName = "andrea.desiderio.522"
   githubName = "andreadesiderio"
+  linkedinName = "andrea-desiderio"
 
   logo = ""
   orgName = "EM"
